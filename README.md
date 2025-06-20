@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+With over 10 years of experience in mobile app development, I am a full-stack specialist with expertise in React Native, Flutter, Flutterflow, Swift, SwiftUI, Java, Kotlin, and more. I excel in seamlessly navigating roles and thrive in collaborative environments where team visions align with my values. Additionally, I possess a solid understanding of blockchain development and decentralized applications (DApps).
+
+I have professionally developed mobile applications across various industries, including banking, health insurance, international organizations, restaurants, hotels, telemedicine, telecommunications, and security. My specialization lies in delivering high-quality apps for global organizations, scaleups, and startups, always setting and meeting realistic deadlines.
+
+Whether starting a new project from scratch or diving into an existing one, I quickly get up to speed and contribute effectively to ensure project success.
